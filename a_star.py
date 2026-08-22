@@ -65,7 +65,7 @@ graph = {
 
 # Heuristic estimates to goal (Bucharest)
 heuristic = {
-    'Sibiu': 253,
+    'Sibiu': 269,
     'Rimnicu Vilcea': 193,
     'Pitesti': 100,
     'Bucharest': 0,
